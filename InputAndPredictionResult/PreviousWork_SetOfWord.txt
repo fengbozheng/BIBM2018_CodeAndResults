@@ -1,0 +1,60 @@
+of	sweat	neoplasm	gland	malignant
+of	glomus	neoplasm	malignant	jugulare
+of	neoplasm	body	coccygeal	malignant
+of	neoplasm	body	malignant	aortic
+nonstageable	of	ulcer	pressure	foot
+dislocation	and	of	fixation	reduction	open	primary	fracture	of
+subcutaneous	canthus	of	tissue	structure
+limb	wound	complication	of	open	without
+lung	lobe	segment	of	upper	right	entire	of
+lung	lobe	left	segment	of	lower	entire	of
+of	vessel	perineum	neoplasm	blood	malignant	of
+limb	of	compartment	fascia	fascial	structure	of
+capsule	joint	tibiofibular	of	structure	of
+abdomen	of	vessel	neoplasm	malignant	blood	of
+of	biopsy	rectum	needle
+intestine	large	of	biopsy	needle
+trachea	of	biopsy	needle
+tongue	of	biopsy	needle
+larynx	of	biopsy	needle
+of	biopsy	uterine	needle	ligament
+uterus	of	biopsy	needle
+of	biopsy	penis	needle
+epididymis	of	biopsy	needle
+bronchus	of	biopsy	needle
+ureter	of	biopsy	needle
+small	intestine	of	biopsy	needle
+of	biopsy	stomach	needle
+thymus	of	biopsy	needle
+dislocation	and	of	fixation	to	reduction	open	revision	fracture	of
+of	biopsy	testis	needle
+renal	of	artery	transluminal	angioplasty
+silicone	dressing	foam
+surface	of	sternum	body	structure	of	of
+vaginalis	of	tunica	layer	structure	of
+lobe	left	liver	segment	of	structure	of	of
+lobe	liver	of	segment	right	structure	of	of
+of	femur	section	neck	structure	of	of
+thorax	of	vessel	neoplasm	malignant	blood	of
+finger	epidermoid	of	cyst	hand	of
+lacrimal	flexible	endoscope
+left	of	metacarpal	bone	structure	base	hand	of	of
+nasal	sinus	of	biopsy	needle	of
+examination	of	specimen	for	parasites	fluid	microscopic	of
+assessment	rehabilitation	admission
+average	24	hour	pressure	blood
+24	hour	maximum	pressure	blood
+24	hour	pressure	minimum	blood
+iliac	percutaneous	of	endarterectomy	artery
+head	of	muscle	hallucis	entire	adductor
+of	nerve	biopsy	needle
+blind	fistula	congenital
+of	neoplasm	bone	malignant	primary
+limb	tendon	of	abscess	of
+of	vessel	neoplasm	malignant	blood
+of	vessel	neoplasm	trunk	blood	malignant	of
+limb	with	wound	complication	of	open
+capsule	joint	of	interphalangeal	toe	structure	of	of
+salivary	gland	entire
+intestine	of	biopsy	needle
+core	intestine	of	biopsy	needle
